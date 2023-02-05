@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentsNavigationDrawer</string>
+    <string name="titulo_nv">Navigation Drawer con Fragments</string>
+    <string name="item1_nav">Item1</string>
+    <string name="item2_nav">Item2</string>
+    <string name="item3_nav">Item3</string>
+    <string name="mens_fragment1">Fragment 1!!!</string>
+    <string name="mens_fragment2">Fragment 2!!!</string>
+    <string name="mens_fragment3">Fragment 3!!!</string>
+</resources>
